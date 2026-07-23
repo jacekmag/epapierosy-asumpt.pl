@@ -1,0 +1,12 @@
+# ============================================
+# Przekierowania 301: stare strony .php -> nowe .html
+# Sklep ASUMPT - epapierosy-asumpt.pl
+# Wersja 2 - 02.07.2026
+# ============================================
+
+Redirect 301 /komplety.php https://epapierosy-asumpt.pl/zestawy.html
+Redirect 301 /clearomizery.php https://epapierosy-asumpt.pl/czesci-akcesoria.html
+Redirect 301 /baterie.php https://epapierosy-asumpt.pl/czesci-akcesoria.html
+Redirect 301 /dodatki.php https://epapierosy-asumpt.pl/czesci-akcesoria.html
+Redirect 301 /sole.php https://epapierosy-asumpt.pl/sole.html
+Redirect 301 /liquidy.php https://epapierosy-asumpt.pl/liquidy.html

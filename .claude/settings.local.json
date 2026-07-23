@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git config *)",
+      "Read(//c/Users/Asumpt/**)",
+      "Bash(gh --version)",
+      "Bash(gh auth *)",
+      "Bash(command -v gh)",
+      "Bash(command -v ssh-keygen)",
+      "Bash(command -v clip)",
+      "Bash(clip)"
+    ]
+  }
+}
