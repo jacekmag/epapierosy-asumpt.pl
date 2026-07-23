@@ -1,0 +1,1 @@
+# epapierosy-asumpt.pl
