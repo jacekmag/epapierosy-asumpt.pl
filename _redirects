@@ -1,0 +1,13 @@
+# Przekierowania 301: stare adresy .php/.html -> aktualne strony
+# Sklep ASUMPT - epapierosy-asumpt.pl
+# Wersja pod Netlify (poprzedni htaccess.txt nie działał na tym hostingu)
+
+/komplety.php        /zestawy.html            301
+/clearomizery.php     /czesci-akcesoria.html  301
+/baterie.php          /czesci-akcesoria.html  301
+/dodatki.php          /czesci-akcesoria.html  301
+/sole.php             /sole.html               301
+/liquidy.php          /liquidy.html            301
+/onas.php              /o-nas.html             301
+/equipment.php        /dobor-sprzetu.html      301
+/home.html             /                       301
